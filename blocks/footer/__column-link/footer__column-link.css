@@ -1,0 +1,22 @@
+.footer__column-link {
+  text-decoration: none;
+  color: var(--white);
+  margin-bottom: 10px;
+  font-weight: 400;
+  font-size: 16px;
+  line-height: 18px;
+}
+
+.footer__column-link:last-child {
+  margin-bottom: 0;
+}
+
+.footer__column-link > img {
+  width: 16px;
+  height: 16px;
+  padding-right: 8px;
+}
+
+.footer__column-link:hover {
+  color: var(--blue);
+}
