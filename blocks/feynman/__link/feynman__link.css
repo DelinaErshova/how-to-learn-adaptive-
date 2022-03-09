@@ -7,4 +7,9 @@
   font-size: 36px;
   line-height: 51px;
   color: var(--blue);
+  transition: 0.4s;
+}
+
+.feynman__link:hover {
+  opacity: 0.6;
 }
